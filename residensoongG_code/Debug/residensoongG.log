@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(365,5): warning MSB8003: Could not find VCInstallDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+  TRACKER : 오류 TRK0005: "CL.exe"을(를) 찾지 못했습니다. 지정된 파일을 찾을 수 없습니다.
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: 5).
